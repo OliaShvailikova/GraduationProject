@@ -1,0 +1,271 @@
+buttons.png
+size: 2000, 1500
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+(LD)-pressed
+  rotate: false
+  xy: 0, 0
+  size: 250, 300
+  orig: 250, 300
+  offset: 0, 0
+  index: -1
+(LD)
+  rotate: false
+  xy: 250, 0
+  size: 250, 300
+  orig: 250, 300
+  offset: 0, 0
+  index: -1
+(LU)-pressed
+  rotate: false
+  xy: 500, 0
+  size: 250, 300
+  orig: 250, 300
+  offset: 0, 0
+  index: -1
+(LU)
+  rotate: false
+  xy: 750, 0
+  size: 250, 300
+  orig: 250, 300
+  offset: 0, 0
+  index: -1
+(RD)-pressed
+  rotate: false
+  xy: 1000, 0
+  size: 250, 300
+  orig: 250, 300
+  offset: 0, 0
+  index: -1
+(RD)
+  rotate: false
+  xy: 1250, 0
+  size: 250, 300
+  orig: 250, 300
+  offset: 0, 0
+  index: -1
+(RU)-pressed
+  rotate: false
+  xy: 1500, 0
+  size: 250, 300
+  orig: 250, 300
+  offset: 0, 0
+  index: -1
+(RU)
+  rotate: false
+  xy: 1750, 0
+  size: 250, 300
+  orig: 250, 300
+  offset: 0, 0
+  index: -1
+2-pressed
+  rotate: false
+  xy: 0, 300
+  size: 250, 300
+  orig: 250, 300
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 250, 300
+  size: 250, 300
+  orig: 250, 300
+  offset: 0, 0
+  index: -1
+3-pressed
+  rotate: false
+  xy: 500, 300
+  size: 250, 300
+  orig: 250, 300
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 750, 300
+  size: 250, 300
+  orig: 250, 300
+  offset: 0, 0
+  index: -1
+4-pressed
+  rotate: false
+  xy: 1000, 300
+  size: 250, 300
+  orig: 250, 300
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1250, 300
+  size: 250, 300
+  orig: 250, 300
+  offset: 0, 0
+  index: -1
+5-pressed
+  rotate: false
+  xy: 1500, 300
+  size: 250, 300
+  orig: 250, 300
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 1750, 300
+  size: 250, 300
+  orig: 250, 300
+  offset: 0, 0
+  index: -1
+6-pressed
+  rotate: false
+  xy: 0, 600
+  size: 250, 300
+  orig: 250, 300
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 250, 600
+  size: 250, 300
+  orig: 250, 300
+  offset: 0, 0
+  index: -1
+7-pressed
+  rotate: false
+  xy: 500, 600
+  size: 250, 300
+  orig: 250, 300
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 750, 600
+  size: 250, 300
+  orig: 250, 300
+  offset: 0, 0
+  index: -1
+8-pressed
+  rotate: false
+  xy: 1000, 600
+  size: 250, 300
+  orig: 250, 300
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 1250, 600
+  size: 250, 300
+  orig: 250, 300
+  offset: 0, 0
+  index: -1
+9-pressed
+  rotate: false
+  xy: 1500, 600
+  size: 250, 300
+  orig: 250, 300
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 1750, 600
+  size: 250, 300
+  orig: 250, 300
+  offset: 0, 0
+  index: -1
+D-pressed
+  rotate: false
+  xy: 0, 900
+  size: 250, 300
+  orig: 250, 300
+  offset: 0, 0
+  index: -1
+D
+  rotate: false
+  xy: 250, 900
+  size: 250, 300
+  orig: 250, 300
+  offset: 0, 0
+  index: -1
+del
+  rotate: false
+  xy: 500, 900
+  size: 250, 300
+  orig: 250, 300
+  offset: 0, 0
+  index: -1
+J-pressed
+  rotate: false
+  xy: 750, 900
+  size: 250, 300
+  orig: 250, 300
+  offset: 0, 0
+  index: -1
+J
+  rotate: false
+  xy: 1000, 900
+  size: 250, 300
+  orig: 250, 300
+  offset: 0, 0
+  index: -1
+L-pressed
+  rotate: false
+  xy: 1250, 900
+  size: 250, 300
+  orig: 250, 300
+  offset: 0, 0
+  index: -1
+L
+  rotate: false
+  xy: 1500, 900
+  size: 250, 300
+  orig: 250, 300
+  offset: 0, 0
+  index: -1
+O-pressed
+  rotate: false
+  xy: 1750, 900
+  size: 250, 300
+  orig: 250, 300
+  offset: 0, 0
+  index: -1
+O
+  rotate: false
+  xy: 0, 1200
+  size: 250, 300
+  orig: 250, 300
+  offset: 0, 0
+  index: -1
+R-pressed
+  rotate: false
+  xy: 250, 1200
+  size: 250, 300
+  orig: 250, 300
+  offset: 0, 0
+  index: -1
+R
+  rotate: false
+  xy: 500, 1200
+  size: 250, 300
+  orig: 250, 300
+  offset: 0, 0
+  index: -1
+return
+  rotate: false
+  xy: 750, 1200
+  size: 250, 300
+  orig: 250, 300
+  offset: 0, 0
+  index: -1
+U-pressed
+  rotate: false
+  xy: 1000, 1200
+  size: 250, 300
+  orig: 250, 300
+  offset: 0, 0
+  index: -1
+U
+  rotate: false
+  xy: 1250, 1200
+  size: 250, 300
+  orig: 250, 300
+  offset: 0, 0
+  index: -1
