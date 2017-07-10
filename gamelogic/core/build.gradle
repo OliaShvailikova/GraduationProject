@@ -1,0 +1,12 @@
+apply plugin: "java"
+sourceCompatibility = 1.6
+[compileJava, compileTestJava]*.options*.encoding = 'UTF-8'
+sourceSets.main.java.srcDirs = ["src/"]
+eclipse.project {
+    name = appName + "-core"
+}
+dependencies {
+    compile 'im.bci:tablelayout:0.13'
+    compile 'org.mapsforge:svg-android:0.4.2'
+    compile 'com.github.bigfishcat.android:svg-android:2.0.7'
+}
